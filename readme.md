@@ -93,3 +93,5 @@ body{
 }
 
 ```
+
+5. You can now test the project. Click the run button in VS Code and then navigate in your browser to http://localhost:5000/start
