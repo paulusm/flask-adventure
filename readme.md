@@ -56,7 +56,7 @@ if __name__ == '__main__':
   app.run(debug=True)
 
 ```
-3. This won't work yet, as we need a "template" that will for them HTML displayed to the user, Call this step.html:
+3. This won't work yet, as we need a "template" for the HTML displayed to the user, create a folder called "templates" and add a new file - call this step.html:
 
 ```html
 
