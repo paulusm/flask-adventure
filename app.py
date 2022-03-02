@@ -9,4 +9,4 @@ def choice(name):
     return render_template('step.html', step=name, data=data[name])
 
 if __name__ == '__main__':
-  app.run(debug=True)
+  app.run(host='0.0.0.0', debug=True)
